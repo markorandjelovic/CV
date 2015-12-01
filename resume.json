@@ -6,7 +6,7 @@
     "email": "markoran@gmx.com",
     "phone": "+381 (62) 813-8079",
     "website": "http://markorandjelovic.hopto.org",
-    "summary": "Very tallented programmer with ability to write correct software that does exactly what it's thought out. I finished mixed mathematics, computer science and informatics studies at University of Niš. I worked for 9 years as programmer in \"Jastrebac\" pump factory. I am well informed about free and open-source philosophy and practices and follow respective developments.",
+    "summary": "Very tallented programmer with ability to write correct software that does exactly what it's thought out. I finished mixed mathematics, computer science and informatics studies at University of Niš. I worked for 9 years as programmer in \"Jastrebac\" pump factory. I am well informed about free and open-source philosophy and practices and follow developments.",
     "location": {
       "address": "Dobrile Trajković 11/22",
       "postalCode": "18000",
@@ -40,6 +40,15 @@
       "startDate": "2001-08-01",
       "endDate": "2010-06-30",
       "summary": "Care about development of all parts of information system of the enterprise in programming language Progress 4GL. Modify database structure as needed. Information system covers human resources, accounting, sales, constructional and technological information, all with various reports. Administration of UNIX server and Progress database.",
+      "highlights": []
+    },
+    {
+      "company": "Seavus",
+      "position": "System Administrator",
+      "website": "www.seavus.com",
+      "startDate": "2008-08-01",
+      "endDate": "2008-10-31",
+      "summary": "Maintenance of complex entitlement/billing system. Finding causes of technical problems using web applications, command-line programs and fixing them using SQL.",
       "highlights": []
     }
   ],
