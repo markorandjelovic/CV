@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Marko Ranđelović",
+    "label": "Programmer",
+    "picture": "",
+    "email": "markoran@gmx.com",
+    "phone": "+381 (62) 813-8079",
+    "website": "http://markorandjelovic.hopto.org",
+    "summary": "Very tallented programmer with ability to write correct software that does exactly what it's thought out. I finished mixed mathematics, computer science and informatics studies at University of Niš. I worked for 9 years as programmer in \"Jastrebac\" pump factory. I have good knowledge about free and open source philosophies and practices.",
+    "location": {
+      "address": "Dobrile Trajković 11/22",
+      "postalCode": "18000",
+      "city": "Niš",
+      "countryCode": "RS",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "MarkoRandj",
+        "url": ""
+      },
+      {
+        "network": "Facebook",
+        "username": "marko.mppa",
+        "url": "https://www.facebook.com/marko.mppa"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "markorandjelovic",
+        "url": "http://rs.linkedin.com/in/markorandjelovic"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Jastrebac",
+      "position": "Programmer",
+      "website": "http://www.jastrebac.co.rs",
+      "startDate": "2001-08-01",
+      "endDate": "2010-06-30",
+      "summary": "Care about development of all parts of information system of the enterprise in programming language Progress 4GL. Modify database structure as needed. Information system covers human resources, accounting, sales, constructional and technological information, all with various reports. Administration of UNIX server and Progress database.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Niš",
+      "area": "Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "1995-10-01",
+      "endDate": "2001-07-03",
+      "gpa": "3.0",
+      "courses": [
+        "Functional Analysis",
+        "Probability and Stochastic Processes",
+        "Geometrical Modeling",
+        "Algebra of Computer Languages",
+        "Parallel Processing",
+        "Philosophy and History of Mathematics",
+        "Graph Theory",
+        "Mathematical Logic",
+        "Mathematical Analysis",
+        "Linear Algebra and Analytical Geometry",
+        "Programming Languages and Translators",
+        "English Language",
+        "Computer Systems",
+        "Data Organization and Databases",
+        "Operating Systems",
+        "Network Planning",
+        "Statistics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Third Award",
+      "date": "1995",
+      "awarder": "Society of Mathematicians of Serbia",
+      "summary": "State Championship in Physics"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Software Modeling of Acoustic Properties of Musical Instruments and Sound Generation Using Linear Combination of Oscilatory Functions with Non-Constant Coeficients",
+      "publisher": "",
+      "releaseDate": "2000",
+      "website": "",
+      "summary": "Seminal Work"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "Java",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "IELTS 6.0"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Peter Burchhardt",
+      "reference": "Marko used his creativity and expert skills in Linux, shell-scripting, php, and Python to create several different efficient, reliable, and well-documented systems for us. Some of these systems had quite difficult scale and performance requirements, which Marko solved beautifully. Highly recommended."
+    }
+  ]
+}
